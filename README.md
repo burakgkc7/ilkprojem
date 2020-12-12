@@ -1,1 +1,3 @@
 # ilkprojem
+başlıyoruz
+deneme
